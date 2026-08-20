@@ -1,13 +1,11 @@
-# Repositório SSI 25/26
+# Trabalho Prático SSI 2025/2026
 
-- A104438 - Gonçalo Filipe Duarte Barbosa
-- A104619 - Gonçalo Silva Carmo
-- A106888 - José Mário Raimundo Lima
+Trabalho Prático de **Segurança em Sistemas Informáticos** 2025/2026.
 
-### Guiões Práticos
+## Grupo
 
-Estes devem ser colocados na diretoria `guioes`, dentro da semana correspondente (`S3`, `S4`, etc.).
-
-### Trabalho Prático
-
-Este deverá ser depositado dentro da diretoria `trabalho-pratico`.
+| Número  | Nome                          |
+|---------|-------------------------------|
+| A104438 | Gonçalo Filipe Duarte Barbosa |
+| A104619 | Gonçalo Silva Carmo           |
+| A106888 | José Mário Raimundo Lima      |
