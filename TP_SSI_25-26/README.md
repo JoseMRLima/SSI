@@ -2,6 +2,8 @@
 
 Trabalho Prático de **Segurança em Sistemas Informáticos** 2025/2026.
 
+**Nota:** 13
+
 ## Grupo
 
 | Número  | Nome                          |
