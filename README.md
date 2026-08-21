@@ -1,6 +1,6 @@
-# Segurança em Sistemas Informáticos
+# Segurança de Sistemas Informáticos
 
-Conteúdo da unidade curricular **Segurança em Sistemas Informáticos** do ano letivo 2025/2026.
+Conteúdo da unidade curricular **Segurança de Sistemas Informáticos** do ano letivo 2025/2026.
 
 ## Conteúdo
 
